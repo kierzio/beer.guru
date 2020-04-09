@@ -1,7 +1,10 @@
 /*import global font*/
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@600&family=Open+Sans&display=swap');
 
-
+h5 {
+  font-family: 'Kanit', sans-serif;
+  color: #c5e0d8
+}
 
 h4 {
   font-family: 'Kanit', sans-serif;
